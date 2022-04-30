@@ -1,0 +1,406 @@
+# Translation of Plugins - Suki Sites Import - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Suki Sites Import - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-04 15:52:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Suki Sites Import - Stable (latest release)\n"
+
+#: inc/wxr-importer/class-wxr-importer.php:2029
+#: inc/importers/class-wxr-importer.php:2029
+msgid "Could not update comment #%d with mapped data"
+msgstr "Impossible de mettre à jour le commentaire #%d avec les données cartographiées"
+
+#: inc/wxr-importer/class-wxr-importer.php:2012
+#: inc/importers/class-wxr-importer.php:2012
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr "Le commentaire %d a été importé avec l’auteur %d, mais n’a pu être trouvé"
+
+#: inc/wxr-importer/class-wxr-importer.php:2008
+#: inc/importers/class-wxr-importer.php:2008
+msgid "Could not find the author for comment #%d"
+msgstr "Impossible de trouver l’auteur pour le commentaire #%d"
+
+#: inc/wxr-importer/class-wxr-importer.php:1994
+#: inc/importers/class-wxr-importer.php:1994
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr "Commentaire %d a été importé avec le %d parent, mais n’a pas pu être trouvé"
+
+#: inc/wxr-importer/class-wxr-importer.php:1990
+#: inc/importers/class-wxr-importer.php:1990
+msgid "Could not find the comment parent for comment #%d"
+msgstr "Impossible de trouver le parent pour le commentaire #%d"
+
+#: inc/wxr-importer/class-wxr-importer.php:1968
+#: inc/importers/class-wxr-importer.php:1968
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr "La publication %d a été importée avec l'objet \"%d\" du type \"%s\", mais n’a pas pu être trouvée"
+
+#: inc/wxr-importer/class-wxr-importer.php:1963
+#: inc/importers/class-wxr-importer.php:1963
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr "Impossible de trouver l’objet de menu pour \"%s\" (publication #%d)"
+
+#: inc/wxr-importer/class-wxr-importer.php:1918
+#: inc/importers/class-wxr-importer.php:1918
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr "Impossible de mettre à jour \"%s\" (publication #%d) avec les données cartographiées"
+
+#: inc/wxr-importer/class-wxr-importer.php:1907
+#: inc/importers/class-wxr-importer.php:1907
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "La publication %d a été marquée pour le post-traitement, mais aucun n’était nécessaire."
+
+#: inc/wxr-importer/class-wxr-importer.php:1881
+#: inc/importers/class-wxr-importer.php:1881
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr "La publication Post %d a été importée avec l’auteur \"%s\", mais n’a pas pu être trouvée"
+
+#: inc/wxr-importer/class-wxr-importer.php:1876
+#: inc/importers/class-wxr-importer.php:1876
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr "Impossible de trouver l’auteur pour \"%s\" (publication #%d)"
+
+#: inc/wxr-importer/class-wxr-importer.php:1862
+#: inc/importers/class-wxr-importer.php:1862
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr "La publication %d a été importée avec le %d parent, mais n’a pas pu être trouvée"
+
+#: inc/wxr-importer/class-wxr-importer.php:1857
+#: inc/importers/class-wxr-importer.php:1857
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr "Impossible de trouver la publication parent pour \"%s\" (publication #%d)"
+
+#: inc/wxr-importer/class-wxr-importer.php:1844
+#: inc/importers/class-wxr-importer.php:1844
+msgid "Running post-processing for post %d"
+msgstr "Exécution du post-traitement pour la publication %d"
+
+#: inc/wxr-importer/class-wxr-importer.php:1822
+#: inc/importers/class-wxr-importer.php:1822
+msgid "Remote file is too large, limit is %s"
+msgstr "Le fichier distant est trop volumineux, la limite est de %s"
+
+#: inc/wxr-importer/class-wxr-importer.php:1816
+#: inc/importers/class-wxr-importer.php:1816
+msgid "Zero size file downloaded"
+msgstr "Fichier téléchargé de taille nulle"
+
+#: inc/wxr-importer/class-wxr-importer.php:1811
+#: inc/importers/class-wxr-importer.php:1811
+msgid "Remote file is incorrect size"
+msgstr "Fichier distant de taille incorrecte"
+
+#: inc/wxr-importer/class-wxr-importer.php:1798
+#: inc/importers/class-wxr-importer.php:1798
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "Le serveur distant a retourné %1$d %2$s pour %3$s"
+
+#: inc/wxr-importer/class-wxr-importer.php:1745
+#: inc/importers/class-wxr-importer.php:1745
+msgid "Term %d remapped to %d"
+msgstr "Terme %d reconnecté à %d"
+
+#: inc/wxr-importer/class-wxr-importer.php:1716
+#: inc/importers/class-wxr-importer.php:1716
+msgid "Failed to import %s %s"
+msgstr "Échec à l’importation %s %s"
+
+#: inc/wxr-importer/class-wxr-importer.php:1571
+#: inc/importers/class-wxr-importer.php:1571
+msgid "User %d remapped to %d"
+msgstr "Utilisateur %d reconnecté à %d"
+
+#: inc/wxr-importer/class-wxr-importer.php:1567
+#: inc/importers/class-wxr-importer.php:1567
+msgid "Imported user \"%s\""
+msgstr "Utilisateur importé \"%s\""
+
+#: inc/wxr-importer/class-wxr-importer.php:1546
+#: inc/importers/class-wxr-importer.php:1546
+msgid "Failed to import user \"%s\""
+msgstr "Échec à l’importation de l’utilisateur \"%s\""
+
+#: inc/wxr-importer/class-wxr-importer.php:1055
+#: inc/importers/class-wxr-importer.php:1055
+msgid "Invalid file type"
+msgstr "Type de fichier non valide"
+
+#: inc/wxr-importer/class-wxr-importer.php:911
+#: inc/importers/class-wxr-importer.php:911
+msgid "Post %d remapped to %d"
+msgstr "Publication %d reconnectée à %d"
+
+#: inc/wxr-importer/class-wxr-importer.php:906
+#: inc/wxr-importer/class-wxr-importer.php:1740
+#: inc/importers/class-wxr-importer.php:906
+#: inc/importers/class-wxr-importer.php:1740
+msgid "Imported \"%s\" (%s)"
+msgstr "Importé \"%s\" (%s)"
+
+#: inc/wxr-importer/class-wxr-importer.php:874
+#: inc/importers/class-wxr-importer.php:874
+msgid "Failed to import \"%s\" (%s)"
+msgstr "Échec à l’importation \"%s\" (%s)"
+
+#: inc/wxr-importer/class-wxr-importer.php:853
+#: inc/importers/class-wxr-importer.php:853
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "Passer le fichier joint \"%s\", aller chercher les fichiers joints désactivés"
+
+#: inc/wxr-importer/class-wxr-importer.php:768
+#: inc/importers/class-wxr-importer.php:768
+msgid "%s \"%s\" already exists."
+msgstr "%s \"%s\" existe déjà."
+
+#: inc/wxr-importer/class-wxr-importer.php:758
+#: inc/importers/class-wxr-importer.php:758
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "Échec à l'importation de \"%s\" : type de publication non valide %s"
+
+#: inc/wxr-importer/class-wxr-importer.php:670
+#: inc/importers/class-wxr-importer.php:670
+msgid "Cannot import auto-draft posts"
+msgstr "Impossible d’importer les brouillons auto de publications"
+
+#: inc/wxr-importer/class-wxr-importer.php:569
+#: inc/importers/class-wxr-importer.php:569
+msgid "Invalid author mapping"
+msgstr "Connexion d’auteur non valide"
+
+#: inc/wxr-importer/class-wxr-importer.php:509
+#: inc/importers/class-wxr-importer.php:509
+msgid "The file does not exist, please try again."
+msgstr "Le fichier n’existe pas, veuillez réessayer."
+
+#: inc/wxr-importer/class-wxr-importer.php:171
+#: inc/wxr-importer/class-wxr-importer.php:287
+#: inc/wxr-importer/class-wxr-importer.php:360
+#: inc/importers/class-wxr-importer.php:171
+#: inc/importers/class-wxr-importer.php:287
+#: inc/importers/class-wxr-importer.php:360
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr "Ce fichier WXR (version %s) est plus récent que l’outil d’importation (version %s) et peut ne pas être pris en charge. Veuillez envisager une mise à jour."
+
+#: inc/wxr-importer/class-wxr-importer.php:135
+#: inc/importers/class-wxr-importer.php:135
+msgid "Could not open the file for parsing"
+msgstr "Impossible d’ouvrir le fichier pour l’analyser"
+
+#: inc/class-suki-sites-import.php:1039
+msgid "Load More"
+msgstr "Charger plus"
+
+#: inc/class-suki-sites-import.php:1030
+msgid "Preview"
+msgstr "Prévisualisation"
+
+#: inc/class-suki-sites-import.php:1000
+msgid "Required Plugins"
+msgstr "Extensions nécessaires"
+
+#: inc/class-suki-sites-import.php:984
+msgid "If you already have an active license, please install the Suki Pro plugin and activate your license on \"Appearance > Suki\" page."
+msgstr "Si vous avez déjà une licence active, veuillez installer l’extension Suki Pro et activer votre licence sur la page « Apparence > Suki »."
+
+#: inc/class-suki-sites-import.php:983
+msgid "To import this demo site you need an active license of {{ data.license_plan.name }} plan. Please upgrade or renew your license first."
+msgstr "Pour importer ce site de démonstration, vous avez besoin d'une licence active de l’offre {{ data.license_plan.name }}. Veuillez d’abord mettre à niveauou renouveler votre licence."
+
+#: inc/class-suki-sites-import.php:982
+msgid "Pro Demo Site"
+msgstr "Site de démo pro"
+
+#: inc/class-suki-sites-import.php:969
+msgid "Close"
+msgstr "Fermer"
+
+#: inc/class-suki-sites-import.php:961
+msgid "No site found. Try a different search."
+msgstr "Aucun site trouvé. Essayez une autre recherche."
+
+#: inc/class-suki-sites-import.php:956
+msgid "Select your page builder."
+msgstr "Sélectionnez votre constructeur de page."
+
+#: inc/class-suki-sites-import.php:948
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/class-suki-sites-import.php:946
+msgid "Details & Preview"
+msgstr "Détails & prévisualisation"
+
+#: inc/class-suki-sites-import.php:934
+msgid "or enter keywords..."
+msgstr "ou saisissez des mots-clés&hellip;"
+
+#: inc/class-suki-sites-import.php:933
+msgid "Search site sites"
+msgstr "Rechercher des sites"
+
+#: inc/class-suki-sites-import.php:927
+msgid "Show All"
+msgstr "Tout afficher"
+
+#: inc/class-suki-sites-import.php:886
+msgid "Install and Activate Now"
+msgstr "Installer et activer maintenant"
+
+#: inc/class-suki-sites-import.php:883
+msgid "Activate Now"
+msgstr "Activer maintenant"
+
+#: inc/class-suki-sites-import.php:878
+msgid "Suki Sites Import (plugin) requires Suki theme to be installed and activated."
+msgstr "Suki Sites Import (extension) nécessite que le thème Suki soit installé et activé."
+
+#: inc/class-suki-sites-import.php:779
+msgid "You are not permitted to import options."
+msgstr "Vous n’avez pas l’autorisation d’importer les options."
+
+#: inc/class-suki-sites-import.php:656
+msgid "You are not permitted to import widgets."
+msgstr "Vous n’êtes pas autorisé à importer des widgets."
+
+#: inc/class-suki-sites-import.php:785
+msgid "No options JSON file specified."
+msgstr "Aucun fichier JSON d’options spécifié."
+
+#: inc/class-suki-sites-import.php:662
+msgid "No widgets JSON file specified."
+msgstr "Aucun fichier JSON de widgets spécifié."
+
+#: inc/class-suki-sites-import.php:603
+msgid "No customizer JSON file specified."
+msgstr "Aucun fichier JSON de l’outil de personnalisation spécifié."
+
+#: inc/class-suki-sites-import.php:597
+msgid "You are not permitted to import customizer."
+msgstr "Vous n’êtes pas autorisé à importer l’outil de personnalisation."
+
+#: inc/class-suki-sites-import.php:401
+msgid "You are not permitted to import contents."
+msgstr "Vous n’êtes pas autorisé à importer des contenus."
+
+#: inc/class-suki-sites-import.php:215
+msgid "Invalid requirements for importing, please refresh this page."
+msgstr "Prérequis d’importation non valides, veuillez rafraîchir cette page."
+
+#: inc/class-suki-sites-import.php:214
+msgid "Invalid action, please refresh this page."
+msgstr "Action non valide, veuillez rafraîchir cette page."
+
+#: inc/class-suki-sites-import.php:213
+msgid "Invalid plugin status, please refresh this page."
+msgstr "État de l’extension non valide, veuillez actualiser cette page."
+
+#: inc/class-suki-sites-import.php:212
+msgid "Failed to fetch site info"
+msgstr "Impossible de récupérer les infos du site"
+
+#: inc/class-suki-sites-import.php:208
+msgid ""
+"Before importing this site site, please note:\n"
+"\n"
+"1. It is recommended to run import on a fresh WordPress installation (no data has been added). You can reset to fresh installation using any \"WordPress reset\" plugin.\n"
+"\n"
+"2. Importing site site data into a non-fresh installation might overwrite your existing content.\n"
+"\n"
+"3. Copyrighted media will not be imported and will be replaced with placeholders.\n"
+"\n"
+msgstr ""
+"Avant d’importer ce site, veuillez noter :\n"
+"\n"
+"1. Il est recommandé d’exécuter l’importation sur une nouvelle installation WordPress (aucune donnée n’a été ajoutée). Vous pouvez réinitialiser l’installation en utilisant n’importe quelle extension de « réinitialisation WordPress ».\n"
+"\n"
+"2. L’importation des données du site dans une installation non récente peut écraser votre contenu existant.\n"
+"\n"
+"3. Les supports protégés par des droits d’auteur ne seront pas importés et seront remplacés par des textes indicatifs.\n"
+"\n"
+
+#: inc/class-suki-sites-import.php:206
+msgid "Finished! Visit your site"
+msgstr "Terminé ! Visitez votre site"
+
+#: inc/class-suki-sites-import.php:204
+msgid "Importing other options..."
+msgstr "Importation d’autres options&hellip;"
+
+#: inc/class-suki-sites-import.php:203
+msgid "Importing widgets..."
+msgstr "Importation de widgets&hellip;"
+
+#: inc/class-suki-sites-import.php:202
+msgid "Importing theme options..."
+msgstr "Importation des options du thème&hellip;"
+
+#: inc/class-suki-sites-import.php:201
+msgid "Importing contents..."
+msgstr "Importation des contenus&hellip;"
+
+#: inc/class-suki-sites-import.php:199
+msgid "Validating data..."
+msgstr "Validation des données&hellip;"
+
+#: inc/class-suki-sites-import.php:198
+msgid "Import This Site"
+msgstr "Importer ce site"
+
+#: inc/class-suki-sites-import.php:197
+msgid "Please Activate Required Plugins"
+msgstr "Veuillez activer les extensions nécessaires"
+
+#: inc/class-suki-sites-import.php:196
+msgid "Upgrade Your License"
+msgstr "Mettez à niveau votre licence"
+
+#: inc/class-suki-sites-import.php:194
+msgid "Active"
+msgstr "Active"
+
+#: inc/class-suki-sites-import.php:193
+msgid "Activating"
+msgstr "Activation"
+
+#: inc/class-suki-sites-import.php:192
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/class-suki-sites-import.php:191
+msgid "Installing"
+msgstr "Installation"
+
+#: inc/class-suki-sites-import.php:190
+msgid "Install & Activate"
+msgstr "Installer & activer"
+
+#: inc/class-suki-sites-import.php:164
+msgid "Sites Import"
+msgstr "Importation de sites"
+
+#. Author URI of the plugin
+msgid "https://sukiwp.com/#about"
+msgstr "https://sukiwp.com/#about"
+
+#. Author of the plugin
+msgid "Suki WordPress Theme"
+msgstr "Suki WordPress Theme"
+
+#. Description of the plugin
+msgid "Collection of ready-to-use templates (demo sites) built for Elementor and Gutenberg."
+msgstr "Collection de modèles prêts à l’emploi (sites de démonstration) construits pour Elementor et Gutenberg."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/suki-sites-import"
+msgstr "http://wordpress.org/plugins/suki-sites-import"
+
+#. Plugin Name of the plugin
+#: inc/class-suki-sites-import.php:163
+msgid "Suki Sites Import"
+msgstr "Suki Sites Import"

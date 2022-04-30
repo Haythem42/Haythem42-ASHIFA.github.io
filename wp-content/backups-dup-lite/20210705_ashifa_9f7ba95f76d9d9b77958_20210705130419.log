@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: July 5, 2021 1:05 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.1
+WORDPRESS:	5.7.2
+PHP INFO:	7.3.21 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) PHP/7.3.21 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:99 | filtered:0 | create:99
+FILTERED: []
+SQL CREATED: 20210705_ashifa_9f7ba95f76d9d9b77958_20210705130419_database.sql
+SQL FILE SIZE: 18.42MB (19312508)
+SQL FILE TIME: 2021-07-05 13:05:35
+SQL RUNTIME: 3.98 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/ashifa
+ARCHIVE FILE: 20210705_ashifa_9f7ba95f76d9d9b77958_20210705130419_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	174.75MB
+STATS:	Dirs 1,690 | Files 9,751
+SQL ADDED: 20210705_ashifa_9f7ba95f76d9d9b77958_20210705130419_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 11441
+    [filename] => C:\wamp64\www\ashifa\wp-content\backups-dup-lite\tmp\20210705_ashifa_9f7ba95f76d9d9b77958_20210705130419_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 11440
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 69.73MB
+ARCHIVE RUNTIME: 283.55 sec.
+MEMORY STACK: 6MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/wamp64/www/ashifa/wp-content/backups-dup-lite/tmp/20210705_ashifa_9f7ba95f76d9d9b77958_20210705130419_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 18.42MB
+INSTALLER FILE: 64.14KB
+ARCHIVE FILE: 71.15MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 11,441
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 11,440
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 290.36 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20210705_ashifa July 5, 2021 1:10 pm
+
